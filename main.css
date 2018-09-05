@@ -1,0 +1,67 @@
+body {
+    font-family: 'Montserrat';
+}
+ .all {
+    background-image: url("Assets/background.jpg");
+    background-size: cover;
+  }
+  nav {
+  	width: 100%;
+  	height: 70px;
+  	position: fixed;
+  	color: black;
+  	z-index: 1;
+  	background: white;
+  }
+  img {
+  	border-radius: 10px;
+  	border: 2px grey solid;
+  }
+  .naw {
+  	padding-top: 20px;
+  }
+  ul {
+  list-style-type: none;
+  }
+  li {
+    float: left;
+    padding-right: 100px;
+    margin-bottom: 52px;
+    
+    }
+    .cz_1 {
+    	padding: 150px;
+    	font-size:;
+    }
+    .got {
+    	font-size: 48px;
+    	color: #9fc016;
+    }
+    .szkoda {
+    	font-size: 64px;
+    	color: #9fc016;
+    	font-weight: bold;
+    }
+    .cz_2 {
+    	font-size: 64px;
+    	text-align: center;
+    	background-color: #9fc016;
+    	color: white;
+    	padding: 50px;
+    }
+    .wyjdz. {
+
+    }
+  footer {
+  	width: 100%;
+  	height: 119px;
+  	background-color: #9fc016;
+  }
+  .tel {
+  	float: left;
+  	display: inline-block;
+  	width: 280px;
+  	height: 50px;
+  	border-radius: 25px;
+  	border: solid 5px #ffffff;
+  }
